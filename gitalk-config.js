@@ -4,7 +4,7 @@ var gitalk = new Gitalk({
   "repo": "cooee.github.io",
   "owner": "cooee",
   "admin": ["cooee"],
-  "id": decodeURI("{{location.pathname}}"),      
+  "id": md5(location.pathname),      
   "distractionFreeMode": false  
 });
 gitalk.render("gitalk-container");
