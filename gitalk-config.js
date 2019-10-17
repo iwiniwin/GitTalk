@@ -1,6 +1,6 @@
 var gitalk = new Gitalk({
-  "clientID": "Iv1.bf9c066c74b8d356",
-  "clientSecret": "392862763d5b541b74726459d0522061535a0ac1",
+  "clientID": "0d890289e8f2218d34d2",
+  "clientSecret": "e52587e99df3f189e1daf5dfd1417a131af41792",
   "repo": "iwiniwin.github.io/GitTalk",
   "owner": "iwiniwin",
   "admin": ["iwiniwin"],
