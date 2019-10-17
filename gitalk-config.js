@@ -1,9 +1,9 @@
 var gitalk = new Gitalk({
-  "clientID": "0d890289e8f2218d34d2",
-  "clientSecret": "e52587e99df3f189e1daf5dfd1417a131af41792",
-  "repo": "iwiniwin.github.io",
-  "owner": "iwiniwin",
-  "admin": ["iwiniwin"],
+  "clientID": "267fb8efbb1d0244e095",
+  "clientSecret": "769dd0cc63a535b08920f1ef342ac51a58c24d83",
+  "repo": "cooee.github.io",
+  "owner": "cooee",
+  "admin": ["cooee"],
   "id": location.pathname,      
   "distractionFreeMode": false  
 });
